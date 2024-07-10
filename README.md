@@ -21,7 +21,7 @@
  <div align="left">
    <img src="https://raw.githubusercontent.com/SVA-BL00/SVA-BL00/main/assets/GIF-SKYE-MOD-2.gif" width="70" align="left"/>
   <img src="https://github-readme-stats.vercel.app/api?username=SVA-BL00&show_icons=true&theme=panda" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SVA-BL00&hide_progress=true&theme=panda" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SVA-BL00&hide_progress=true&theme=panda" width="100"/>
   
 
    
