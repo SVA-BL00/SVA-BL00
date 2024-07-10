@@ -1,18 +1,32 @@
 <div align="center">
-<img src="https://github.com/SVA-BL00/SVA-BL00/blob/main/assets/banner.jpg?raw=true" align="center" height="" width="600" />
+<img src="https://github.com/SVA-BL00/SVA-BL00/blob/main/assets/banner.jpg?raw=true" align="center" height="" width="100%" />
 </div>  
   
 
-### <div align="center">⋆˚࿔ 𝐇𝐢! 𝐈'𝐦 𝐒𝐚𝐫𝐚 𝜗𝜚˚⋆</div>  
-  
+ <h3 align="center">⋆˚࿔ 𝐇𝐢! 𝐈'𝐦 𝐒𝐚𝐫𝐚 𝜗𝜚˚⋆</h3>  
 
-⋆𖦹.✧ I’m currently working on HyperBlade, a hack n' slash game.  
-  
-
-⋆𖦹.✧˚I’m currently learning C#  
-  
+<h4 align="center"><i>ᯓ★ Computer scientist student</i></h4>
 
 <br/>  
+
+⋆𖦹.✧ I’m currently working on HyperBlade, a hack n' slash game. 
+  
+
+
+⋆𖦹.✧˚I’m currently learning C#  
+
+
+<br/>  
+
+ <div align="left">
+   <img src="https://raw.githubusercontent.com/SVA-BL00/SVA-BL00/main/assets/GIF-SKYE-MOD-2.gif" width="70" align="left"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SVA-BL00&show_icons=true&theme=panda" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SVA-BL00&hide_progress=true&theme=panda" height="200"/>
+  
+
+   
+  </div>
+
 
 
 ## Connect with me  
@@ -31,6 +45,3 @@
 
 <br/>  
 
-
-![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=SVA-BL00&show_icons=true&theme=panda)
-<img src="https://raw.githubusercontent.com/SVA-BL00/SVA-BL00/main/assets/GIF-SKYE-MOD-2.gif" width="100" />
