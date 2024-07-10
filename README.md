@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/SVA-BL00/SVA-BL00/blob/main/assets/banner.jpg?raw=true" align="center" height="" width="100%" />
+<img src="https://github.com/SVA-BL00/SVA-BL00/blob/main/assets/bannerHQ.png?raw=true" align="center" height="" width="100%" />
 </div>  
   
 
