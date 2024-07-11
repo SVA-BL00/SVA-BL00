@@ -4,6 +4,9 @@
 <br>
 <h2 align="center">⋆˚࿔ 𝐇𝐢! 𝐈'𝐦 𝐒𝐚𝐫𝐚 𝜗𝜚˚⋆</h2>  
 <h4 align="center"><i>ᯓ★ Computer science student</i></h4>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=plastic&color=e81a6c"/>
+</div>
 <br>  
 <p align="center">I am passionate about solving problems and always eager to learn. As an autodidact, I enjoy exploring new concepts and expanding my skillset. My main interests are front-end development and game design. In my free time, I am an android enthusiast, an illustrator, a keyboard player, and a Tamagotchi caretaker.</p>
 <br>
