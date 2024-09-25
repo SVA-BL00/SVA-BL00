@@ -49,9 +49,6 @@
   <a href="https://linkedin.com/in/sara-vargas-aceves-252677273">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://bloo-pepper.itch.io">
-    <img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" />
-  </a>
   <a href="https://twitter.com/_b100o">
     <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
