@@ -46,7 +46,7 @@
 
 ## ♯┆𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞 .ᐟ ༉‧₊˚. ☆
 <div align="center">
-  <a href="https://linkedin.com/in/sara-vargas-aceves-252677273">
+  <a href="https://linkedin.com/in/svass">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/_b100o">
