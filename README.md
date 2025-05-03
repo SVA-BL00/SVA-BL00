@@ -8,11 +8,11 @@
 <img src="https://komarev.com/ghpvc/?username=SVA-BL00&style=plastic&color=e81a6c"/>
 </div>
 <br>  
-<p align="center">I am passionate about solving problems and always eager to learn. As an autodidact, I enjoy exploring new concepts and expanding my skillset. My main interests are front-end development and game design. In my free time, I am an android enthusiast, an illustrator, a keyboard player, and a Tamagotchi caretaker.</p>
+<p align="center">I am passionate about solving problems and always eager to learn. As an autodidact, I enjoy exploring new concepts and expanding my skillset. My main interests are graphics programming and game development. In my free time, I am an android enthusiast, an illustrator, a keyboard player, and a Tamagotchi caretaker.</p>
 <br>
 💻⋆｡°✩ Working on HyperBlade, a solo dev hack n' slash game. <br>
-📚⋆｡°✩ Learning computer graphics programming <br>
-🚀⋆｡°✩ Seeking experiences in game development.
+📚⋆｡°✩ Learning Linux <br>
+🚀⋆｡°✩ Seeking experiences in graphic programming, GPU.
 <br>
 <br>
  <div align="center">
