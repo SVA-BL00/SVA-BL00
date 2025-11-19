@@ -11,7 +11,7 @@
 <p align="center">I am passionate about solving problems and always eager to learn. As an autodidact, I enjoy exploring new concepts and expanding my skillset. My main interests are graphics programming and game development. In my free time, I am an android enthusiast, an illustrator, a keyboard player, and a Tamagotchi caretaker.</p>
 <br>
 💻⋆｡°✩ Working on HyperBlade, a solo dev hack n' slash game. <br>
-📚⋆｡°✩ Learning Linux <br>
+📚⋆｡°✩ Learning Image Processing <br>
 🚀⋆｡°✩ Seeking experiences in graphic programming, GPU.
 <br>
 <br>
