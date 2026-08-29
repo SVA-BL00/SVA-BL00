@@ -3,7 +3,7 @@
 </div> 
 <br>
 <h2 align="center">⋆˚࿔ 𝐇𝐢! 𝐈'𝐦 𝐒𝐚𝐫𝐚 𝜗𝜚˚⋆</h2>  
-<h4 align="center"><i>ᯓ★ Computer science student</i></h4>
+<h4 align="center"><i>ᯓ★ Computer graphics and game technology student</i></h4>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=SVA-BL00&style=plastic&color=e81a6c"/>
 </div>
